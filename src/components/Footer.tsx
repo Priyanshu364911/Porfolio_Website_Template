@@ -14,8 +14,7 @@ const Footer = () => {
           
           <div className="flex items-center text-sm text-foreground/60">
             <p>
-              © {new Date().getFullYear()} · Made with 
-              <Heart className="inline mx-1 text-primary" size={14} /> and modern technologies
+              © {new Date().getFullYear()} · Made By Priyanshu Patel
             </p>
           </div>
           
